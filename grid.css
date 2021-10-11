@@ -11,3 +11,7 @@
   background-color: rgba(0, 123, 255, .15);
   border: 1px solid rgba(0, 123, 255, .2);
 }
+
+@media only screen and (min-width: 969px) {
+body .container {padding-left:35px; padding-right: 35px;}
+}
